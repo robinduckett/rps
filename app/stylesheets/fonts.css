@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'metro';
+	src: url('webfonts/metro-icons-fixed-2000-webfont.eot');
+	src: url('webfonts/metro-icons-fixed-2000-webfont.eot?#iefix') format('embedded-opentype'),
+	url('webfonts/metro-icons-fixed-2000-webfont.woff') format('woff'),
+	url('webfonts/metro-icons-fixed-2000-webfont.ttf') format('truetype'),
+	url('webfonts/metro-icons-fixed-2000-webfont.svg#metroicons8-3regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,65 @@
+.weapon-choose p, .player-choose p {
+	font-weight: normal;
+	text-align: center;
+}
+
+.weapon-choose {
+	display: none;
+}
+
+.container p {
+	font-size: 12pt;
+}
+
+.show {
+	display: block !important;
+}
+
+.container {
+	width: 480px;
+	margin: 0 auto;
+}
+
+.player {
+	font-family: metro;
+	font-size: 64px;
+	cursor: pointer;
+}
+
+.weapon {
+	font-family: metro;
+	font-size: 32px;
+	position: relative;
+	cursor: pointer;
+}
+
+.weapon.selected, .player.selected {
+	color: #f90;
+}
+
+.weapon:hover {
+	color: #f00;
+}
+
+.countdown {
+	font-size: 128px;
+	display: none;
+}
+
+#game {
+	text-align: center;
+	display: none;
+}
+
+#game .player {
+	font-size: 128px;
+}
+
+#game .player1 {
+	margin-left: 50px;
+	margin-right: 200px;
+}
+
+.countdown {
+	text-align: center;
+}
