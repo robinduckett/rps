@@ -5,15 +5,19 @@
 Install node via [nvm](https://github.com/creationix/nvm) or your favourite method
 
 Install brunch
+
     npm install brunch -g
 
 Install npm modules
+
     npm install .
 
 Build with brunch
+
     brunch build
 
 Watch for code updates and run a server on [http://localhost:3333/](http://localhost:3333/)
+
     brunch watch --server
 
 ## Testing
